@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Training\\Bookish\\Bookish\\Bookish.csproj": {}
+    "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Training\\Bookish\\Bookish\\Bookish.csproj": {
+    "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Training\\Bookish\\Bookish\\Bookish.csproj",
-        "projectName": "Bookish",
-        "projectPath": "C:\\Work\\Training\\Bookish\\Bookish\\Bookish.csproj",
+        "projectUniqueName": "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj",
+        "projectName": "AccessData",
+        "projectPath": "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj",
         "packagesPath": "C:\\Users\\alfbul\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Training\\Bookish\\Bookish\\obj\\",
+        "outputPath": "C:\\Work\\Training\\Bookish\\AccessData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alfbul\\AppData\\Roaming\\NuGet\\NuGet.Config"
