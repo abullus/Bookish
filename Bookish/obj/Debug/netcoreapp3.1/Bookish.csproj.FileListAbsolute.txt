@@ -14,3 +14,5 @@ C:\Work\Training\Bookish\Bookish\obj\Debug\netcoreapp3.1\Bookish.genruntimeconfi
 C:\Work\Training\Bookish\Bookish\bin\Debug\netcoreapp3.1\Dapper.dll
 C:\Work\Training\Bookish\Bookish\bin\Debug\netcoreapp3.1\Npgsql.dll
 C:\Work\Training\Bookish\Bookish\obj\Debug\netcoreapp3.1\Bookish.csproj.CopyComplete
+C:\Work\Training\Bookish\Bookish\bin\Debug\netcoreapp3.1\AccessData.dll
+C:\Work\Training\Bookish\Bookish\bin\Debug\netcoreapp3.1\AccessData.pdb

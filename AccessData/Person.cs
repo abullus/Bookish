@@ -1,6 +1,6 @@
 ﻿namespace AccessData
 {
-    public class User
+    public class Person
     {
         public int ID;
         public string Name;

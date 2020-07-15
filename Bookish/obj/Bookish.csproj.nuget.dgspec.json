@@ -4,6 +4,66 @@
     "C:\\Work\\Training\\Bookish\\Bookish\\Bookish.csproj": {}
   },
   "projects": {
+    "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj",
+        "projectName": "AccessData",
+        "projectPath": "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj",
+        "packagesPath": "C:\\Users\\alfbul\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\Training\\Bookish\\AccessData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alfbul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[4.1.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Work\\Training\\Bookish\\Bookish\\Bookish.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -24,7 +84,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj": {
+                "projectPath": "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

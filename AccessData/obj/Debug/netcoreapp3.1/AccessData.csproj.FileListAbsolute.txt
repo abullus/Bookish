@@ -1,0 +1,9 @@
+C:\Work\Training\Bookish\AccessData\bin\Debug\netcoreapp3.1\AccessData.deps.json
+C:\Work\Training\Bookish\AccessData\bin\Debug\netcoreapp3.1\AccessData.dll
+C:\Work\Training\Bookish\AccessData\bin\Debug\netcoreapp3.1\AccessData.pdb
+C:\Work\Training\Bookish\AccessData\obj\Debug\netcoreapp3.1\AccessData.csprojAssemblyReference.cache
+C:\Work\Training\Bookish\AccessData\obj\Debug\netcoreapp3.1\AccessData.AssemblyInfoInputs.cache
+C:\Work\Training\Bookish\AccessData\obj\Debug\netcoreapp3.1\AccessData.AssemblyInfo.cs
+C:\Work\Training\Bookish\AccessData\obj\Debug\netcoreapp3.1\AccessData.csproj.CoreCompileInputs.cache
+C:\Work\Training\Bookish\AccessData\obj\Debug\netcoreapp3.1\AccessData.dll
+C:\Work\Training\Bookish\AccessData\obj\Debug\netcoreapp3.1\AccessData.pdb

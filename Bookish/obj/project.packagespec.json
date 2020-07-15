@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj": {
+            "projectPath": "C:\\Work\\Training\\Bookish\\AccessData\\AccessData.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
